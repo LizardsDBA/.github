@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<p>Somos estudantes do 1º semestre do curso de Banco de Dados na FATEC SJC, estamos dedicados ao desenvolvimento de 6 projetos ao longo do nosso curso..</p>
+<h2><b></b>Somos estudantes do 1º semestre do curso de Banco de Dados na FATEC SJC, estamos dedicados ao desenvolvimento de 6 projetos ao longo do nosso curso..</b></h2>
 
 ## Índice
 
