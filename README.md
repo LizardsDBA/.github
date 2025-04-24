@@ -18,7 +18,7 @@
 ## Integrantes do projeto
   
 <div align="center">
-  <img src="assets/integrantes.png" alt="Equipe e funções" width="600px" />
+  <img src="assets/integrantes_2.png" alt="Equipe e funções" width="600px" />
 </div>
 
  ## Boas práticas
